@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Meghana.
-- I'm a freshman at Cornell University, majoring in Computer Science. I try to code anything intriguing that comes my way. Check out my [Course Generator]() app or try to get the computer to [detect your face]! 
+- I'm a freshman at Cornell University, majoring in Computer Science. I try to code anything intriguing that comes my way. Check out my [Course Generator](https://github.com/maggike/Full-Stack-AI-Course-Creator-Learning-Journey) app or try to get the computer to [detect your face]! 
 - 👀 Currently working on coding a mega project!
 - 🌱 I am a certified artist!
 - 💞️ I’m looking to collaborate on anything really!
